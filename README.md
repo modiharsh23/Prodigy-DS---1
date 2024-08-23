@@ -10,4 +10,4 @@ The data was filtered to include only rows where the 'Series Code' is 'SP.POP.TO
 The filtered data was then sorted by population in descending order, allowing the identification of the top 10 countries with the highest total population.
 # Contact Information
 
-LinkedIn: Dhruvi Patel
+LinkedIn: Harsh Modi
